@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/leavephoto":{"guestpath":"/home/vagrant/leavephoto","hostpath":"/Users/suguruoki/neocareer/leavephoto","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/suguruoki/neocareer","disabled":false,"__vagrantfile":true}}}
